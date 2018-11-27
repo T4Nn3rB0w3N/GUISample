@@ -48,6 +48,7 @@ public class SamplePanel extends JPanel
 		});
 	}
 	
+	// my favorite color: Red: 86   Green: 22   Blue: 20
 	private void changeBackgroundColor()
 	{
 		int red = (int) (Math.random() * 256);
